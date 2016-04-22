@@ -82,6 +82,18 @@ while (i < 366) {
 ## DAY 28  - DATE - TITLE ()
 ## DAY 29  - DATE - TITLE ()
 ## DAY 30  - DATE - TITLE ()
+
+---
+
+## Expected skills after 30 days
+- markdown with no problem
+- html markup with no problems
+- simple css skills
+- basic git workflow
+- daily stand up meetings
+
+
+
 ## DAY 31  - DATE - TITLE ()
 ## DAY 32  - DATE - TITLE ()
 ## DAY 33  - DATE - TITLE ()
