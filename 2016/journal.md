@@ -25,9 +25,10 @@
 **Actual**:
 - Tutorial and exercises of Markdown
 - Ben's sample exercises of Markdown
+- Codecademy
 
 **Read/Watched**
-- Nothing
+- [Codecademy, html, css] (https://www.codecademy.com/courses/web-beginner-en-HZA3b/2/2?curriculum_id=50579fb998b470000202dc8b)
 
 
 ```js
@@ -42,10 +43,12 @@ while (i < 366) {
 
 ---
 
-## DAY 3  - DATE - TITLE ()
+## DAY 3  - April 22 - Friday (Grinding on Codecademy, learning GitHub)
 
 
 **Expected**:
+- Grinding on Codecademy
+- learning GitHub
 
 
 **Actual**:
