@@ -124,6 +124,16 @@ while (i < 366) {
 ## DAY 58  - DATE - TITLE ()
 ## DAY 59  - DATE - TITLE ()
 ## DAY 60  - DATE - TITLE ()
+
+---
+
+## Expected skills after 60 days
+
+- Umm..
+
+
+
+
 ## DAY 61  - DATE - TITLE ()
 ## DAY 62  - DATE - TITLE ()
 ## DAY 63  - DATE - TITLE ()
