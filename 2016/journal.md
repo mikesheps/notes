@@ -52,14 +52,31 @@ while (i < 366) {
 
 
 **Actual**:
-
+- Codecademy: HMTL & CSS
 
 **Read/Watched**
+- [Codecademy](https://www.codecademy.com/learn)
 
 
+## DAY 4  - April 25 - Monday (no coding, took care of things at house)
 
-## DAY 4  - DATE - TITLE ()
-## DAY 5  - DATE - TITLE ()
+---
+
+## DAY 5  - April 26 - Tuesday (Codecademy)
+
+**Expected**:
+- Grinding on Codecademy
+- learning GitHub
+
+
+**Actual**:
+- Codecademy: HMTL & CSS
+
+**Read/Watched**
+- [Codecademy](https://www.codecademy.com/learn)
+
+---
+
 ## DAY 6  - DATE - TITLE ()
 ## DAY 7  - DATE - TITLE ()
 ## DAY 8  - DATE - TITLE ()
