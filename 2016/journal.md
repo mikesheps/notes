@@ -75,6 +75,23 @@ while (i < 366) {
 **Read/Watched**
 - [Codecademy](https://www.codecademy.com/learn)
 
+**things learned today**
+- css
+- tables
+- styling stuff
+
+```css
+css
+
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+
+selector {
+    property: value;
+}
+
+/*  */      comment
+```
+
 ---
 
 ## DAY 6  - DATE - TITLE ()
