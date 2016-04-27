@@ -94,7 +94,29 @@ selector {
 
 ---
 
-## DAY 6  - DATE - TITLE ()
+## DAY 6  - April 27 - Wednesday (More Codecademy)
+
+
+**Expected**:
+- Grinding on Codecademy
+- learning GitHub
+
+
+**Actual**:
+- Codecademy: HMTL & CSS
+
+**Read/Watched**
+- [Codecademy](https://www.codecademy.com/learn)
+- [box model](http://codepen.io/carolineartz/pen/ogVXZj)
+
+**things learned today**
+- css
+- pseudo selectors
+- box model
+- positioning
+
+
+---
 ## DAY 7  - DATE - TITLE ()
 ## DAY 8  - DATE - TITLE ()
 ## DAY 9  - DATE - TITLE ()
