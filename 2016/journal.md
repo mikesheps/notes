@@ -137,7 +137,28 @@ selector {
 
 ---
 
-## DAY 8  - DATE - TITLE ()
+## DAY 8  - April 29 - Friday (Codecademy)
+
+**Expected**:
+- Codecademy
+
+**Actual**:
+- Codecademy
+- Whiteboard Friday
+
+**things learned today**
+- SEOs
+- Codecademy, working on building a resume
+
+
+
+
+
+
+
+---
+
+
 ## DAY 9  - DATE - TITLE ()
 ## DAY 10  - DATE - TITLE ()
 ## DAY 11  - DATE - TITLE ()
