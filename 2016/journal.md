@@ -159,7 +159,25 @@ selector {
 ---
 
 
-## DAY 9  - DATE - TITLE ()
+## DAY 9  - May 2 - Monday (Reliant Care Hack)
+
+**Expected**:
+- Grinding on Codecademy
+- learning GitHub
+
+**Actual**:
+- helped with making changes to RC website
+- Watched what goes on to fix a hacked website
+
+**things learned today**
+- 30% of all websites are Wordpress
+- a lot of hacks are in the plugins
+- Google analytics
+- Host sites
+
+
+---
+
 ## DAY 10  - DATE - TITLE ()
 ## DAY 11  - DATE - TITLE ()
 ## DAY 12  - DATE - TITLE ()
