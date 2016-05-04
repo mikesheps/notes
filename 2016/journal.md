@@ -178,7 +178,26 @@ selector {
 
 ---
 
-## DAY 10  - DATE - TITLE ()
+## DAY 10  - May 3 - Tuesdsay (RC switching Host & Codecademy)
+
+**Expected**:
+- Watch and try to follow website switching hosts
+- More Codecademy
+
+**Actual**:
+- helped with RC switching host sites
+- finished HMTL & CSS course in Codecademy
+
+**things learned today**
+- some basic functions on JavaScript
+- witnessed website switching host sites
+
+
+
+
+
+---
+
 ## DAY 11  - DATE - TITLE ()
 ## DAY 12  - DATE - TITLE ()
 ## DAY 13  - DATE - TITLE ()
