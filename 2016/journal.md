@@ -198,7 +198,24 @@ selector {
 
 ---
 
-## DAY 11  - DATE - TITLE ()
+## DAY 11  - May 4 - Wednesday (My Birthday!!!)
+
+**Expected**:
+- Option to call an audible
+
+**Actual**:
+- Did journal for May 3 and pushed to GitHub
+- called the audible
+
+**things learned today**
+- the pins and lanes won the battle today but I'll get them next time
+
+
+
+
+
+---
+
 ## DAY 12  - DATE - TITLE ()
 ## DAY 13  - DATE - TITLE ()
 ## DAY 14  - DATE - TITLE ()
